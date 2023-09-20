@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on open source projects 🧑‍💻
 - 🤔 I’m looking for help with APIs
 - 📫 How to reach me: <a href="mailto:mohammedsaadk1252@gmail.com">Gmail</a>
-<p align="left"> <img src = "https://komarev.com/ghpvc/?username=Mohammed-Saad-K&color=green&style=flat-square" alt="Mohammed-Saad-K" /> </p>
+<!--<p align="left"> <img src = "https://komarev.com/ghpvc/?username=Mohammed-Saad-K&color=green&style=flat-square" alt="Mohammed-Saad-K" /> </p>-->
 
 
 ## Tech Stack
