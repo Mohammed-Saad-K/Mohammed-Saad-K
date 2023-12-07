@@ -30,7 +30,6 @@ Here are some ideas to get you started:-->
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 <!-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) -->
-<br/>
 
 ### DSA and Programming
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
