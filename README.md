@@ -5,39 +5,54 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Android Development 📱
-- 🌱 I’m currently learning DSA and Advanced Android Development 
-- 👯 I’m looking to collaborate on open source projects 🧑‍💻
-- 🤔 I’m looking for help with APIs
+- 🔭 I’m currently working on Full Stack Development.
+- 🌱 I’m currently learning DSA and NextJS. 
+- 👯 I’m looking to collaborate on open source projects 🧑🏻‍💻
+- 🤔 I’m looking forward to meet amazing like-minded people.
+- ⚡ I'm passionate about Software and Technology.
 - 📫 How to reach me: <a href="mailto:mohammedsaadk1252@gmail.com">Gmail</a>
 <p align="left"> <img src = "https://komarev.com/ghpvc/?username=Mohammed-Saad-K&color=green&style=flat-square" alt="Mohammed-Saad-K" /> </p>
 
 
 ## Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-<br />
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### Frontend Development
+![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+### Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 <br/>
+
+### DSA and Programming
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Others
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 
 ## In Future
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-Saad-K&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)
+<!--## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohammed-Saad-K&theme=github-dark-dimmed&hide_border=true)](https://git.io/streak-stats)-->
+
 <!--
 <br />
 <a href = "https://github.com/Mohammed-Saad-K"> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saad-K&layout=compact&theme=buefy&hide_border=true" /> </a> -->
 
 ##  Let's Connect
 [![Code Palace](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-saad-k-622595220/)
-[![Code Palace](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/md_saad1252)
-[![Code Palace](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsaadk1252@gmail.com)
+[![Code Palace](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaadCoder)
+[![Code Palace](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedsaadk120502@gmail.com)
